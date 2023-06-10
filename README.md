@@ -15,9 +15,11 @@ Accuracy, F1-Score
 
 ## Models implemented
 
-### Baseline Model - Random Forest
+### Baseline Model - Random Forest with over+under-sampling
 
 Results : 
+
+![image](https://github.com/psvkaushik/Terrain-Identification/assets/86014345/99d3ea35-7f24-4b46-a41b-19fb1b472d06)
 
 
 
@@ -26,5 +28,7 @@ Results :
 ![image](https://github.com/psvkaushik/Terrain-Identification/assets/86014345/2fedc2d5-f55b-42c6-8d8e-1bc9dd5b18e5)
 
 Results : 
+
+![image](https://github.com/psvkaushik/Terrain-Identification/assets/86014345/ce9648b5-6a24-4f24-b25c-cd9438a6e90c)
 
 
